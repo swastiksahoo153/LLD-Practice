@@ -1,1 +1,1 @@
-![cab-booking-system](../Cab-booking.png)
+![cab-booking-system](./Cab-booking.png)
